@@ -1,18 +1,22 @@
  Hi 👋, I'm Shivam Kumar Singh
 
- 💻 About Me
-- 🎓 Diploma in Computer Science Engineering
-- 🌱 Currently learning Full Stack Web Development
-- 💡 Interested in Web Development and Open Source
-- 🚀 Building real-world projects
+ 👨‍💻 About Me
+I'm a Computer Science Engineering student passionate about technology, problem-solving, and continuous learning. I'm currently exploring Artificial Intelligence and Machine Learning while strengthening my skills in web development. I enjoy building practical projects that solve real-world problems and continuously improving my coding abilities.
 
+ 🌱 Currently Learning
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Python
+- Data Science
+- Git & GitHub
+  
  🛠 Skills
 - HTML
 - CSS
 - JavaScript
+- Python
+- Git & GitHub
 - C Programming
-- Git
-- GitHub
 
  📚 Currently Learning
 - React.js
