@@ -1,6 +1,7 @@
  Hi 👋, I'm Shivam Kumar Singh
 
  👨‍💻 About Me
+ 
 I'm a Computer Science Engineering student passionate about technology, problem-solving, and continuous learning. I'm currently exploring Artificial Intelligence and Machine Learning while strengthening my skills in web development. I enjoy building practical projects that solve real-world problems and continuously improving my coding abilities.
 
  🌱 Currently Learning
