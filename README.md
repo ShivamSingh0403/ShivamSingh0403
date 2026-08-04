@@ -1,16 +1,32 @@
-## Hi there 👋
+ Hi 👋, I'm Shivam Kumar Singh
 
-<!--
-**ShivamSingh0403/ShivamSingh0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 About Me
+- 🎓 Diploma in Computer Science Engineering
+- 🌱 Currently learning Full Stack Web Development
+- 💡 Interested in Web Development and Open Source
+- 🚀 Building real-world projects
 
-Here are some ideas to get you started:
+ 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- C Programming
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📚 Currently Learning
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+ 📌 Featured Project
+ 💊 MediSwift
+An online medicine delivery platform that provides affordable medicines to rural and urban areas with:
+- Medicine Search
+- Filters
+- Prescription Upload
+- Doctor Consultation
+
+ 📫 Connect with Me
+GitHub: https://github.com/ShivamSingh0403
