@@ -16,7 +16,6 @@ I'm a Computer Science Engineering student passionate about technology, problem-
 - CSS
 - JavaScript
 - Python
-- Git & GitHub
 - C Programming
 
  📌 Featured Project
