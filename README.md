@@ -4,7 +4,7 @@
  
 I'm a Computer Science Engineering student passionate about technology, problem-solving, and continuous learning. I'm currently exploring Artificial Intelligence and Machine Learning while strengthening my skills in web development. I enjoy building practical projects that solve real-world problems and continuously improving my coding abilities.
 
- 🌱 Currently Learning
+ 📚 Currently Learning
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 - Python
@@ -18,12 +18,6 @@ I'm a Computer Science Engineering student passionate about technology, problem-
 - Python
 - Git & GitHub
 - C Programming
-
- 📚 Currently Learning
-- React.js
-- Node.js
-- Express.js
-- MongoDB
 
  📌 Featured Project
  💊 MediSwift
