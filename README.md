@@ -1,12 +1,10 @@
-<!-- Animated Capsule Header (Animation: Waving & Twinkling) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=55&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Intern%20%7C%20Cyber%20Security&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24,30&height=220&section=header&text=Shivam%20Kumar%20Singh&fontSize=50&fontAlignY=35&animation=twinkling&desc=Computer%20Science%20Engineering%20Student%20%7C%20Web%20Design%20%7C%20AI/ML%20%7C%20Cyber%20Security&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
-<!-- Dynamic Typing Animation (Animation: Continuous Typewriter) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Architecting+Full+Stack+Solutions;Exploring+AI+%26+Machine+Learning;Analyzing+Network+Security+Protocols;Always+Building+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Diploma+in+Computer+Science+Engineering;Building+Responsive+Web+Applications;Exploring+Artificial+Intelligence+%26+Machine+Learning;Analyzing+Cyber+Security+Protocols" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,75 +17,68 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Jamshedpur-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Jamshedpur,%20Jharkhand-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
 </div>
 
 <hr/>
 
 ## 👨‍💻 Professional Summary
 
-I am a software developer and technologist currently pursuing a Diploma in Computer Science Engineering at Srinath University. My background combines hands-on development with a deep curiosity for emerging technologies. 
+I am a dedicated technologist currently pursuing my Diploma in Computer Science Engineering at **Srinath University**. My technical journey is built on a strong foundation of core academic subjects, including **Data Structures and Algorithms (DSA)**, **Software Engineering**, and **Operating Systems**. 
 
-With practical internship experience in AI/ML model integration, front-end web design, and cybersecurity protocols, I focus on building secure, efficient, and user-centric applications. When I step away from the keyboard, I'm usually on the court refining the mechanics of my badminton smash.
-
-### 🚀 Core Focus Areas & Projects
-*   **Full Stack Development:** Architecting responsive platforms like *SPharma*, a comprehensive medicine delivery application featuring secure user registration, cart management, and seamless order placement.
-*   **Artificial Intelligence:** Experimenting with high-end, DSLR-quality AI portrait generation, focusing on precise prompt engineering for identity preservation and cinematic lighting.
-*   **Cyber Security:** Implementing data protection strategies and analyzing network vulnerabilities to build more resilient web architectures.
+I am passionate about translating theoretical knowledge into practical solutions. Through various internships, I have cultivated hands-on experience across multiple domains, from designing responsive front-end interfaces to exploring the growing fields of Artificial Intelligence, Machine Learning, and Cyber Security. 
 
 <hr/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-<!-- Animated Skew Icons (Animation: Hover Float) -->
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,git,linux&theme=light" alt="Tech Stack" />
+    <!-- Strictly filtered to your known technical skills -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=light" alt="Tech Stack" />
   </a>
 </div>
 
 <hr/>
 
-## 🎮 Interactive Zone: The Server Breach (Mini-Game)
+## 💼 Experience & Internships
 
-*Take a break from scrolling. Can you navigate the terminal and bypass the firewall? Click the dropdowns to make your choices.*
-
-<details>
-<summary><b>[START SYSTEM]</b> 🟢 You have detected an anomaly in the mainframe. Do you investigate?</summary>
-<br/>
-
-> **Option A:** <details><summary>Run a standard diagnostic scan.</summary> 
-> ❌ *Result:* The scan is too slow. The anomaly encrypts your diagnostic tools. Game Over.
-> </details>
-
-> **Option B:** <details><summary>Isolate the affected server node immediately.</summary>
-> ✅ *Result:* Good call. The threat is contained to Node 42. However, the firewall is asking for a cryptographic key to reset the system.
-> <br/>
-> <b>[NEXT LEVEL]</b> How do you generate the key?
->
-> > **Choice 1:** <details><summary>Attempt a Brute Force attack on your own firewall.</summary>
-> > ❌ *Result:* The firewall detects the brute force and locks you out for 999 years. Game Over.
-> > </details>
->
-> > **Choice 2:** <details><summary>Write a quick Python script to reverse-engineer the latest patch.</summary>
-> > ✅ *Result:* Success! The script outputs the bypass key: `0x7F8A`. 
-> > <br/>
-> > <b>[FINAL STAGE]</b> The system asks where to route the corrupted data packets.
-> >
-> > > **Path X:** <details><summary>Route to `/dev/null`</summary>
-> > > 🏆 *Result:* **SYSTEM SECURED.** You successfully dumped the malicious packets into the void. You are a true Cyber Security Enthusiast! Thanks for playing.
-> > > </details>
-> > > 
-> > > **Path Y:** <details><summary>Route to local storage for analysis.</summary>
-> > > ❌ *Result:* The packets self-execute upon opening the folder. Your RAM is now crying. Game Over.
-> > > </details>
-> > </details>
-> </details>
-</details>
+*   **AI/ML Intern** *(Current)*
+    *   Currently undergoing a comprehensive 3-month internship focused on Artificial Intelligence and Machine Learning applications.
+*   **Cyber Security Intern** 
+    *   Completed a 2-month online internship program focusing on network protocols, threat analysis, and data protection strategies.
+*   **Web Design Intern** 
+    *   Completed a 1-month practical internship dedicated to responsive front-end development and modern web design principles.
 
 <hr/>
 
-<!-- Animated Footer (Animation: Pulse & Float) -->
+## 🚀 Featured Project
+
+### 💊 SPharma - Medicine Delivery Web Application
+Designed and developed **SPharma**, a fully responsive front-end web application built to streamline online medicine delivery. 
+*   **Key Features:** Integrated seamless user registration workflows and a complete order placement system.
+*   **Focus:** Clean UI design, responsive layouts for all device sizes, and intuitive user navigation.
+
+<hr/>
+
+## 🎓 Education
+
+*   **Diploma in Computer Science Engineering**
+    *   *Srinath University, Jamshedpur, Jharkhand*
+*   **10th Grade (CBSE Board)**
+    *   *Chinmaya Vidyalaya, Bistupur*
+
+<hr/>
+
+## 🎯 Career Interests & Hobbies
+
+Beyond academic coursework and professional development, I actively engage in several technical and personal pursuits:
+*   **Coding & New Technologies:** Continuously learning and building small projects to test out new concepts.
+*   **AI Visual Creation:** Deeply interested in high-end, AI-driven portrait editing, with a specific focus on prompt engineering for strict identity preservation, DSLR-quality aesthetics, and cinematic lighting.
+*   **Badminton:** A long-term passion for the sport, constantly working on footwork, timing, and mastering the mechanics of the smash shot.
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,24,2,0&height=100&section=footer&text=Let's%20build%20something%20great%20together.&fontSize=24&animation=pulse" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,24,2,0&height=80&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&animation=pulse" width="100%"/>
 </div>
