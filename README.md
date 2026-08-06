@@ -1,116 +1,166 @@
-<!-- Giant Animated Waving & Twinkling Header -->
+<!-- GIANT ANIMATED WAVING & TWINKLING HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Animated Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Welcome%20to%20my%20Cyber%20Space&descAlignY=55&descAlign=60" width="100%" alt="Cyberpunk Header">
 </div>
 
-<!-- Large Typing Animation for Titles -->
+<!-- LARGE TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Computer+Science+Engineering;Full-Stack+Web+Developer;AI+%26+ML+Intern;Cyber+Security+Enthusiast" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Intern;Cyber+Security+Enthusiast;Always+Building+Something+Awesome" alt="Typing Text" />
 </div>
 
-<br>
-
-<!-- Animated Glowing Cyber Divider -->
+<!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="15" alt="Animated Divider">
-</div>
-
-<br>
-
-### 🎮 The Developer's Vault (Interactive Mini-Games)
-*(Take a break! Click the dropdown arrows to play these native mini-games right here on my profile.)*
-
-<details>
-  <summary>🕹️ <b>GAME 1: Escape the Infinite Loop! (Click to play)</b></summary>
-  <br>
-  🚪 <i>You are trapped in an infinite While Loop. Two doors appear. Which do you choose?</i>
-  <br><br>
-  <details>
-    <summary>🔴 <b>Door 1: Type `break;`</b></summary>
-    <br>
-    🎉 <b>SUCCESS!</b> You successfully broke out of the loop and saved the server from crashing. You are a true developer! 🏆
-  </details>
-  <details>
-    <summary>🔵 <b>Door 2: Add `i++`</b></summary>
-    <br>
-    💀 <b>GAME OVER.</b> The variable `i` was never defined. You just triggered a `ReferenceError` and the server crashed! Try again.
-  </details>
-</details>
-
-<details>
-  <summary>🕹️ <b>GAME 2: Decode The Secret Message (Click to play)</b></summary>
-  <br>
-  <i>Can you translate this binary code?</i> <br>
-  <code>01001000 01101001 01110010 01100101 00100000 01001101 01100101</code>
-  <br><br>
-  <details>
-    <summary>👀 <b>Reveal Answer</b></summary>
-    <br>
-    💼 <b>"Hire Me"</b> - You cracked it! 
-  </details>
-</details>
-
-<br>
-
-<!-- Animated Laser Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="15" alt="Animated Divider">
+  <img src="https://komarev.com/ghpvc/?username=ShivamSingh0403&label=SYSTEM%20VISITORS&color=00F0FF&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 <br>
 
-### 👨‍💻 About My Journey
+<!-- PREMIUM NEON DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="15" alt="Neon Divider">
+</div>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggCGT1x1c0b31x/giphy.gif" width="200" alt="Animated Coding PC" />
+<br>
 
-I am a Computer Science Engineering student pursuing my diploma at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
-
-- 💼 **Experience:** Currently undertaking a **3-month AI/ML internship**, applying data models and algorithms. Previously completed a **1-month Web Designing internship** focusing on responsive front-end development, and a **2-month online Cyber Security internship**.
-- 🔭 **Focus Areas:** Full-Stack Web Development, Artificial Intelligence, Machine Learning, and Cyber Security.
-- 🏸 **Hobbies:** Coding, exploring new technologies, and mastering the badminton smash on the court.
+<!-- ANIMATED CYBERPUNK BANNER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90%" alt="Cyberpunk Banner">
+</div>
 
 <br><br>
 
-### 🚀 Technical Arsenal
-*(Hover your mouse over these large animated icons!)*
+<!-- HACKER TERMINAL SECTION -->
+<div align="center">
+  <pre>
+  <code>
+  > system.boot()
+  > loading profile...
+  ██████████████████████████████████████████████████ 100%
+  
+  [USER]        : Shivam Kumar Singh
+  [ROLE]        : Full Stack Developer & AI Enthusiast
+  [LOCATION]    : Jamshedpur, Jharkhand, India
+  [STATUS]      : Online & Ready to Code
+  [AI MODULE]   : Loaded (3-Month Internship Complete)
+  [CYBER_SEC]   : Active (2-Month Training Complete)
+  [GITHUB]      : Connected
+  [PROJECTS]    : Loading...
+  
+  > Success ✔ 
+  > Welcome to the Mainframe.
+  </code>
+  </pre>
+</div>
+
+<br>
+
+<!-- PREMIUM NEON DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="10" alt="Neon Divider">
+</div>
+
+<br>
+
+### 👨‍💻 ABOUT ME 
+
+<img align="right" src="https://media.giphy.com/media/qgQUggCGT1x1c0b31x/giphy.gif" width="220" alt="Animated Coding PC" />
+
+Hello, World! I am a **Computer Science Engineering student** pursuing my diploma at **Srinath University**. My passion lies at the intersection of complex algorithms, secure networks, and seamless user interfaces.
+
+*   🎓 **Education:** Diploma in Computer Science Engineering.
+*   💼 **Experience:** **AI/ML Intern** (3 Months), **Cyber Security Intern** (2 Months), **Web Design Intern** (1 Month).
+*   💻 **Tech Stack:** Specializing in **C, C++, Python, and Full-Stack Web Development (Node.js, Express, MongoDB, JavaScript, HTML, CSS)**.
+*   🧠 **Passion:** Solving real-world problems through logic, building secure architectures, and learning every day.
+*   🏸 **Fun Fact:** When I'm away from my mechanical keyboard, you can find me on the badminton court perfecting my smash shot!
+
+<br>
+
+<!-- QUICK INFO CARDS -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Location-Jamshedpur,%20India-00F0FF?style=for-the-badge&logo=google-maps&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-00F0FF?style=for-the-badge&logo=open-source-initiative&logoColor=black" />
+  <img src="https://img.shields.io/badge/Collab-Available-00F0FF?style=for-the-badge&logo=handshake&logoColor=black" />
+</div>
+
+<br>
+
+<!-- PREMIUM NEON DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="15" alt="Neon Divider">
+</div>
+
+<br>
+
+### 🚀 TECH STACK & ARSENAL
+*(Core competencies strictly loaded into memory. Hover for system info.)*
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Strictly the skills you know, rendered large and animated on hover -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb&theme=dark&perline=4" alt="Animated Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mongodb,git,github,vscode,linux&theme=dark&perline=7" alt="Tech Stack" />
   </a>
-</div>
-
-<br><br>
-
-### 📌 Featured Projects
-
-<img align="right" src="https://media.giphy.com/media/L8K62iDadewUw/giphy.gif" width="150" alt="Code Animation" />
-
-#### 💊 **[MediSwift](https://github.com/ShivamSingh0403/Mediswift)**
-A unified e-pharmacy and telehealth platform designed to bridge the gap between pharmacy retail and clinical consultancy in rural and urban areas. 
-*   **Tech:** Node.js, Express, MongoDB, JavaScript.
-*   **Features:** Zero-latency client cart, secure prescription uploads, and telehealth routing.
-
-#### 🛒 **SPharma**
-A responsive medicine delivery web application developed during my practical Web Designing internship, featuring seamless user registration and order placement.
-
-<br><br>
-
-<!-- Animated Glowing Cyber Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="15" alt="Animated Divider">
 </div>
 
 <br>
 
-### 📫 Connect with Me
+<!-- PREMIUM NEON DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="10" alt="Neon Divider">
+</div>
+
+<br>
+
+### 📊 GITHUB ANALYTICS & DASHBOARD
+*(Real-time data retrieved from GitHub API)*
 
 <div align="center">
-  <a href="https://github.com/ShivamSingh0403">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Follow me on GitHub!" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect with me on LinkedIn!" alt="LinkedIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSingh0403&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSingh0403&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF" width="48%" alt="Activity Graph" />
+</div>
+
+<br>
+
+### 🏆 ACHIEVEMENTS & TROPHIES
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShivamSingh0403&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
   </a>
 </div>
+
+<br>
+
+### 🐍 CONTRIBUTION SNAKE
+*(Note: Setup GitHub Action to animate)*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShivamSingh0403/ShivamSingh0403/output/github-contribution-grid-snake.svg" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/main/assets/snk-logo.svg'" width="100%" alt="Contribution Snake Placeholder" />
+</div>
+
+<br>
+
+<!-- PREMIUM NEON DIVIDER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="15" alt="Neon Divider">
+</div>
+
+<br>
+
+### 📈 SKILLS PROGRESS & STATISTICS
+
+```text
+SYSTEM KNOWLEDGE BASE PROTOCOL:
+HTML5      ████████████████████ 95%
+CSS3       ██████████████████░░ 90%
+JavaScript ████████████████░░░░ 80%
+C / C++    ████████████████░░░░ 80%
+Node.js    ██████████████░░░░░░ 70%
+MongoDB    ████████████░░░░░░░░ 60%
+Python     ██████████░░░░░░░░░░ 50%
