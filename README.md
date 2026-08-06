@@ -1,12 +1,12 @@
-<!-- Animated Banner GIF -->
+<!-- Ultra-reliable animated developer banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shivamsingh0403/shivamsingh0403/main/coding-animation.gif" onerror="this.src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif'" width="100%" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggCGT1x1c0b31x/giphy.gif" width="100%" alt="Developer Banner">
 </div>
 
-<!-- Animated Typing Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there,+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering+Student;AI+%26+ML+Intern;Full-Stack+Web+%26+Cyber+Security+Enthusiast" alt="Typing SVG" />
-</div>
+<br>
+
+<h1 align="center">Hi There! I'm Shivam Kumar Singh 👋</h1>
+<h3 align="center">Computer Science Engineering | AI & ML Intern | Web & Cyber Security</h3>
 
 <br>
 
@@ -28,34 +28,38 @@ I am a Computer Science Engineering student at Srinath University in Jamshedpur,
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,github,vscode,linux&amp;theme=dark&amp;perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,github,vscode,linux&theme=dark&perline=9" alt="Tech Stack" />
   </a>
 </div>
 
 <br>
 
-### 🎮 Take a Break: Play Tic-Tac-Toe!
-*(Click on any blank square below to make your move! It works directly through GitHub issues.)*
+### 🎮 Mini-Game: The Developer's Vault
+*(100% natively compatible. Click the dropdowns to play!)*
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C1%7C2&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C1%7C3&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C2%7C1&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C2%7C2&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C2%7C3&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C3%7C1&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C3%7C2&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-      <td><a href="https://github.com/zhehaoc/Tic-Tac-Toe/issues/new?title=ttt%7C3%7C3&body=Just+push+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/zhehaoc/Tic-Tac-Toe/master/images/blank.png" width="80" height="80"></a></td>
-    </tr>
-  </table>
-</div>
+<details>
+  <summary><b>🧩 Riddle #1 (Click to open)</b></summary>
+  <br>
+  <i>I have no doors, but I have keys. I have no space, but I can enter. I have no screen, but I control everything you type. What am I?</i>
+  <br><br>
+  <details>
+    <summary><b>👀 Reveal Answer</b></summary>
+    <br>
+    ✅ <b>A Keyboard! ⌨️</b>
+  </details>
+</details>
+
+<details>
+  <summary><b>🧩 Riddle #2 (Click to open)</b></summary>
+  <br>
+  <i>I speak in scripts but have no voice. I wear many themes but have no style. I can crash your system, or help you build Mediswift. What am I?</i>
+  <br><br>
+  <details>
+    <summary><b>👀 Reveal Answer</b></summary>
+    <br>
+    ✅ <b>A Code Editor! (Like VS Code) 💻</b>
+  </details>
+</details>
 
 <br>
 
@@ -70,31 +74,13 @@ An online medicine delivery platform designed to provide affordable medicines an
 
 <br>
 
-### 🏆 GitHub Trophies & Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShivamSingh0403&amp;theme=tokyonight&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15&amp;column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ShivamSingh0403">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSingh0403&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<br>
-
 ### 📫 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ShivamSingh0403">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
