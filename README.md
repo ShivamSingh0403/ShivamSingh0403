@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <div align="center">
   <a href="https://github.com/ShivamSingh0403">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering;AI+%26+ML+Enthusiast;Full-Stack+Web+Developer&color=2196F3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering;AI+%26+ML+Intern;Web+%26+Cyber+Security+Enthusiast&color=2196F3" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,12 +16,12 @@
 
 <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Animated Greeting" />
 
-I am pursuing a Diploma in Computer Science Engineering at Srinath University in Jamshedpur, Jharkhand. I am passionate about technology, problem-solving, and continuous learning. 
+I am a Computer Science Engineering student at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
 
-- 🔭 **Focus Areas:** Exploring Artificial Intelligence and Machine Learning.
-- 🌱 **Currently Learning:** Advanced full-stack web development.
-- 💡 **Interests:** Building practical projects that solve real-world problems.
-- 🏸 **Hobbies:** Coding, exploring new tech, and mastering the badminton smash.
+- 💼 **Experience:** Currently undertaking a **3-month AI/ML internship**, applying data models and algorithms. Previously completed a **1-month Web Designing internship** focusing on responsive front-end development, and a **2-month online Cyber Security internship**.
+- 🔭 **Focus Areas:** Full-Stack Web Development, Artificial Intelligence, Machine Learning, and Cyber Security.
+- 💡 **Interests:** Building practical, scalable web applications and exploring advanced network security protocols.
+- 🏸 **Hobbies:** Coding, exploring new technologies, and mastering the badminton smash.
 
 <br>
 
@@ -42,11 +42,12 @@ I am pursuing a Diploma in Computer Science Engineering at Srinath University in
 
 <br>
 
-**Currently Exploring:**
+**Domain Focus:**
 <br>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF9900?style=flat-square&logo=openai&logoColor=white" alt="AI" />
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML" />
-<img src="https://img.shields.io/badge/Data%20Science-0052CC?style=flat-square&logo=pandas&logoColor=white" alt="Data Science" />
+<img src="https://img.shields.io/badge/Web%20Development-0052CC?style=flat-square&logo=react&logoColor=white" alt="Web Dev" />
+<img src="https://img.shields.io/badge/Cyber%20Security-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Cyber Security" />
 
 <!-- Animated Glowing Divider -->
 <div align="center">
