@@ -1,56 +1,93 @@
+<!-- Animated Capsule Header (Animation: Waving & Twinkling) -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=55&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Intern%20%7C%20Cyber%20Security&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
-<h1 align="center">Hi there, I'm Shivam Kumar Singh 👋</h1>
-<h3 align="center">Full Stack Developer | AI/ML Intern | Cyber Security Enthusiast</h3>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Intern;Cyber+Security+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- Dynamic Typing Animation (Animation: Continuous Typewriter) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Architecting+Full+Stack+Solutions;Exploring+AI+%26+Machine+Learning;Analyzing+Network+Security+Protocols;Always+Building+Something+New" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Jamshedpur,%20India-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000)
-![Education](https://img.shields.io/badge/Education-Diploma%20in%20CSE-00F0FF?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=000000)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=3&section=header" width="100%"/>
-
-## 🧠 About Me
-
-- 🎓 &nbsp;Pursuing a **Diploma in Computer Science Engineering** at Srinath University
-- 🤖 &nbsp;Currently working as an **AI / ML Intern** and building web applications
-- 💻 &nbsp;Passionate about **Full Stack Web Development** (MERN) and **Cyber Security**
-- 🏸 &nbsp;When I'm not coding, I'm usually working on my badminton smash
-- ⚡ &nbsp;Fun fact: I debug faster with coffee in hand ☕
-
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb,git,github,react,py&theme=dark" />
-</div>
-
-## 🚀 Featured Projects
-
-| 💊 **SPharma / MediSwift** | 
-|---|
-| An online, responsive medicine delivery platform featuring user registration, persistent shopping carts, secure login, and doctor consultation features built with modern web technologies. |
-
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamKumarSingh&show_icons=true&theme=react&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&border_color=00F0FF&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKumarSingh&theme=react&background=000000&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&border=00F0FF" width="48%"/>
-
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Jamshedpur-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
 </div>
 
-## 🔗 Connect With Me
+<hr/>
 
-<div align="left">
+## 👨‍💻 Professional Summary
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/ShivamKumarSingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:your.email@example.com)
+I am a software developer and technologist currently pursuing a Diploma in Computer Science Engineering at Srinath University. My background combines hands-on development with a deep curiosity for emerging technologies. 
 
+With practical internship experience in AI/ML model integration, front-end web design, and cybersecurity protocols, I focus on building secure, efficient, and user-centric applications. When I step away from the keyboard, I'm usually on the court refining the mechanics of my badminton smash.
+
+### 🚀 Core Focus Areas & Projects
+*   **Full Stack Development:** Architecting responsive platforms like *SPharma*, a comprehensive medicine delivery application featuring secure user registration, cart management, and seamless order placement.
+*   **Artificial Intelligence:** Experimenting with high-end, DSLR-quality AI portrait generation, focusing on precise prompt engineering for identity preservation and cinematic lighting.
+*   **Cyber Security:** Implementing data protection strategies and analyzing network vulnerabilities to build more resilient web architectures.
+
+<hr/>
+
+## 🛠️ Technical Arsenal
+
+<!-- Animated Skew Icons (Animation: Hover Float) -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,git,linux&theme=light" alt="Tech Stack" />
+  </a>
+</div>
+
+<hr/>
+
+## 🎮 Interactive Zone: The Server Breach (Mini-Game)
+
+*Take a break from scrolling. Can you navigate the terminal and bypass the firewall? Click the dropdowns to make your choices.*
+
+<details>
+<summary><b>[START SYSTEM]</b> 🟢 You have detected an anomaly in the mainframe. Do you investigate?</summary>
+<br/>
+
+> **Option A:** <details><summary>Run a standard diagnostic scan.</summary> 
+> ❌ *Result:* The scan is too slow. The anomaly encrypts your diagnostic tools. Game Over.
+> </details>
+
+> **Option B:** <details><summary>Isolate the affected server node immediately.</summary>
+> ✅ *Result:* Good call. The threat is contained to Node 42. However, the firewall is asking for a cryptographic key to reset the system.
+> <br/>
+> <b>[NEXT LEVEL]</b> How do you generate the key?
+>
+> > **Choice 1:** <details><summary>Attempt a Brute Force attack on your own firewall.</summary>
+> > ❌ *Result:* The firewall detects the brute force and locks you out for 999 years. Game Over.
+> > </details>
+>
+> > **Choice 2:** <details><summary>Write a quick Python script to reverse-engineer the latest patch.</summary>
+> > ✅ *Result:* Success! The script outputs the bypass key: `0x7F8A`. 
+> > <br/>
+> > <b>[FINAL STAGE]</b> The system asks where to route the corrupted data packets.
+> >
+> > > **Path X:** <details><summary>Route to `/dev/null`</summary>
+> > > 🏆 *Result:* **SYSTEM SECURED.** You successfully dumped the malicious packets into the void. You are a true Cyber Security Enthusiast! Thanks for playing.
+> > > </details>
+> > > 
+> > > **Path Y:** <details><summary>Route to local storage for analysis.</summary>
+> > > ❌ *Result:* The packets self-execute upon opening the folder. Your RAM is now crying. Game Over.
+> > > </details>
+> > </details>
+> </details>
+</details>
+
+<hr/>
+
+<!-- Animated Footer (Animation: Pulse & Float) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,24,2,0&height=100&section=footer&text=Let's%20build%20something%20great%20together.&fontSize=24&animation=pulse" width="100%"/>
 </div>
