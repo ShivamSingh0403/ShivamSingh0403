@@ -5,16 +5,11 @@
   </a>
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamSingh0403&label=Profile%20Views&color=2196F3&style=flat-square" alt="Profile Views" />
-</div>
-
 <br>
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Animated Greeting" />
+<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150" alt="Animated Greeting" />
 
 I am a Computer Science Engineering student at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
 
@@ -24,11 +19,6 @@ I am a Computer Science Engineering student at Srinath University in Jamshedpur,
 - 🏸 **Hobbies:** Coding, exploring new technologies, and mastering the badminton smash.
 
 <br>
-
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
 
 ### 🛠 Skills & Technologies
 
@@ -49,10 +39,8 @@ I am a Computer Science Engineering student at Srinath University in Jamshedpur,
 <img src="https://img.shields.io/badge/Web%20Development-0052CC?style=flat-square&logo=react&logoColor=white" alt="Web Dev" />
 <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="Cyber Security" />
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+<br>
+<br>
 
 ### 📌 Featured Project
 
@@ -63,30 +51,24 @@ An online medicine delivery platform designed to provide affordable medicines an
 - 📄 **Prescription Upload:** Securely attach physical medical documents for verification.
 - 👨‍⚕️ **Doctor Consultation:** Built-in telehealth integration for direct medical advice.
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+<br>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSingh0403&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSingh0403&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+<br>
 
 ### 📫 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ShivamSingh0403">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
