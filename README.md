@@ -1,18 +1,22 @@
-<!-- Giant Animated Waving & Twinkling Header -->
+<!-- High-Speed Cyber Matrix Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Animated Header">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="150" alt="Matrix Header">
 </div>
 
-<!-- Large Typing Animation for Titles -->
+<!-- Giant Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Computer+Science+Engineering;Full-Stack+Web+Developer;AI+%26+ML+Intern;Cyber+Security+Enthusiast" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=80&lines=System.out.println(%22Hello+World!%22);Computer+Science+Engineering;AI+%26+ML+Intern;Full-Stack+Web+Developer;Cyber+Security+Enthusiast" alt="Animated Typing" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamSingh0403&label=Profile%20Views&color=39FF14&style=flat-square" alt="Visitor Count" />
 </div>
 
 <br>
 
 ### 👨‍💻 About My Journey
 
-<img align="right" src="https://media.giphy.com/media/qgQUggCGT1x1c0b31x/giphy.gif" width="200" alt="Animated Coding PC" />
+<img align="right" src="https://media.giphy.com/media/VbKLoZvJq405sE0K6o/giphy.gif" width="180" alt="Floating Astronaut Astronaut Coding" />
 
 I am a Computer Science Engineering student at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
 
@@ -20,44 +24,60 @@ I am a Computer Science Engineering student at Srinath University in Jamshedpur,
 - 🔭 **Focus Areas:** Full-Stack Web Development (MERN), Artificial Intelligence, Machine Learning, and Cyber Security.
 - 🏸 **Hobbies:** Coding, exploring new technologies, and mastering the badminton smash.
 
-<br><br>
+<br>
 
 ### 🚀 Technical Arsenal
-*(Hover your mouse over these large animated icons!)*
+*(Hover your mouse over the icons to see the pop-up animation effect!)*
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Strictly the skills you know, rendered large and animated on hover -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb&theme=dark&perline=4" alt="Animated Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb&theme=dark&perline=8" alt="Animated Tech Stack" />
   </a>
 </div>
 
 <br><br>
 
-### 🎮 The Developer's Vault (Mini-Game)
-*(Click the dropdowns to play! This runs natively in GitHub with zero errors.)*
+### 🎮 Mini-Game: The Cyber Escape Room
+*(Click the dropdown arrows to navigate the maze. 100% native and bug-free!)*
 
 <details>
-  <summary><b>🚪 You are trapped in an infinite While Loop. Two doors appear. Which do you choose? (Click here to play)</b></summary>
+  <summary>💻 <b>LEVEL 1: You are locked out of the mainframe. How do you get in? (Click to Start)</b></summary>
   <br>
   <details>
-    <summary>🔴 <b>Door 1: Type `break;`</b></summary>
+    <summary>🔴 <b>Option A: Run a Brute-Force Script</b></summary>
     <br>
-    🎉 <b>SUCCESS!</b> You successfully broke out of the loop and saved the server from crashing. You are a true developer! 🏆
+    🚨 <b>ALARM TRIGGERED!</b> The firewall detected your script and blocked your IP. <b>GAME OVER.</b>
   </details>
   <details>
-    <summary>🔵 <b>Door 2: Add `i++`</b></summary>
+    <summary>🟢 <b>Option B: Check for a SQL Injection Vulnerability</b></summary>
     <br>
-    💀 <b>GAME OVER.</b> The variable `i` was never defined. You just triggered a `ReferenceError` and the server crashed! Try again.
+    🔓 <b>ACCESS GRANTED!</b> You bypassed the login screen.<br><br>
+    
+    <details>
+      <summary>💻 <b>LEVEL 2: You found the database. Do you extract the data or plant a backdoor?</b></summary>
+      <br>
+      <details>
+        <summary>🔴 <b>Option A: Extract everything at once</b></summary>
+        <br>
+        📉 <b>BANDWIDTH SPIKE!</b> The system admins noticed the massive data transfer. You were caught. <b>GAME OVER.</b>
+      </details>
+      <details>
+        <summary>🟢 <b>Option B: Plant a silent backdoor and exit</b></summary>
+        <br>
+        🏆 <b>MISSION ACCOMPLISHED!</b> You secured persistent access like a true Cyber Security pro. <b>YOU WIN!</b>
+      </details>
+    </details>
+    
   </details>
 </details>
 
 <br><br>
 
-### 📌 Featured Project
+### 📌 Featured Project: MediSwift
 
-#### 💊 **[MediSwift](https://github.com/ShivamSingh0403/Mediswift)**
-An online medicine delivery platform designed to provide affordable medicines and healthcare access to rural and urban areas. 
+<img align="right" src="https://media.giphy.com/media/L8K62iDadewUw/giphy.gif" width="150" alt="Code Animation" />
+
+**[MediSwift](https://github.com/ShivamSingh0403/Mediswift)** is an online medicine delivery platform designed to provide affordable medicines and healthcare access to rural and urban areas. 
 
 *   🔍 **Medicine Search & Filters:** Rapidly search and categorize available treatments.
 *   📄 **Prescription Upload:** Securely attach physical medical documents for verification.
@@ -65,9 +85,9 @@ An online medicine delivery platform designed to provide affordable medicines an
 
 <br><br>
 
-<!-- Animated Glowing Divider -->
+<!-- Animated Laser Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="15" alt="Animated Divider">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="20" alt="Animated Divider">
 </div>
 
 <br>
