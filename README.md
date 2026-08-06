@@ -5,7 +5,7 @@
 
 <!-- Giant Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=80&lines=System.out.println(%22Hello+World!%22);Computer+Science+Engineering;AI+%26+ML+Intern;Full-Stack+Web+Developer;Cyber+Security+Enthusiast" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=80&lines=System.out.println(%22Hello+World!%22);I'm+Shivam+Kumar+Singh;AI+%26+ML+Intern;Full-Stack+Web+Developer;Cyber+Security+Enthusiast" alt="Animated Typing" />
 </div>
 
 <div align="center">
@@ -14,15 +14,82 @@
 
 <br>
 
+<!-- Animated Laser Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="15" alt="Animated Divider">
+</div>
+
+<br>
+
+### 🎮 Interactive Zone: Hack The Profile
+*(Take a break! Click the dropdown arrows to play these native mini-games right here on my profile.)*
+
+<details>
+  <summary>🕹️ <b>GAME 1: The Cyber Escape Room (Click to Start)</b></summary>
+  <br>
+  <details>
+    <summary>💻 <b>LEVEL 1: You are locked out of the mainframe. How do you get in?</b></summary>
+    <br>
+    <details>
+      <summary>🔴 <b>Option A: Run a Brute-Force Script</b></summary>
+      <br>
+      🚨 <b>ALARM TRIGGERED!</b> The firewall detected your script and blocked your IP. <b>GAME OVER.</b>
+    </details>
+    <details>
+      <summary>🟢 <b>Option B: Check for a SQL Injection Vulnerability</b></summary>
+      <br>
+      🔓 <b>ACCESS GRANTED!</b> You bypassed the login screen.<br><br>
+      
+      <details>
+        <summary>💻 <b>LEVEL 2: You found the database. Do you extract the data or plant a backdoor?</b></summary>
+        <br>
+        <details>
+          <summary>🔴 <b>Option A: Extract everything at once</b></summary>
+          <br>
+          📉 <b>BANDWIDTH SPIKE!</b> System admins noticed the massive data transfer. You were caught. <b>GAME OVER.</b>
+        </details>
+        <details>
+          <summary>🟢 <b>Option B: Plant a silent backdoor and exit</b></summary>
+          <br>
+          🏆 <b>MISSION ACCOMPLISHED!</b> You secured persistent access like a true Cyber Security pro. <b>YOU WIN!</b>
+        </details>
+      </details>
+      
+    </details>
+  </details>
+</details>
+
+<details>
+  <summary>🕹️ <b>GAME 2: Decode The Secret Message (Click to play)</b></summary>
+  <br>
+  <i>Can you translate this binary code?</i> <br>
+  <code>01001000 01101001 01110010 01100101 00100000 01001101 01100101</code>
+  <br><br>
+  <details>
+    <summary>👀 <b>Reveal Answer</b></summary>
+    <br>
+    💼 <b>"Hire Me"</b> - You cracked it! 
+  </details>
+</details>
+
+<br>
+
+<!-- Animated Glowing Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="10" alt="Animated Divider">
+</div>
+
+<br>
+
 ### 👨‍💻 About My Journey
 
-<img align="right" src="https://media.giphy.com/media/VbKLoZvJq405sE0K6o/giphy.gif" width="180" alt="Floating Astronaut Astronaut Coding" />
+<img align="right" src="https://media.giphy.com/media/VbKLoZvJq405sE0K6o/giphy.gif" width="180" alt="Floating Astronaut Coding" />
 
-I am a Computer Science Engineering student at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
+I am a Computer Science Engineering student pursuing my diploma at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
 
 - 💼 **Experience:** Currently undertaking a **3-month AI/ML internship**, applying data models and algorithms. Previously completed a **1-month Web Designing internship** focusing on responsive front-end development, and a **2-month online Cyber Security internship**.
-- 🔭 **Focus Areas:** Full-Stack Web Development (MERN), Artificial Intelligence, Machine Learning, and Cyber Security.
-- 🏸 **Hobbies:** Coding, exploring new technologies, and mastering the badminton smash.
+- 🔭 **Focus Areas:** Full-Stack Web Development, Data Structures & Algorithms, Operating Systems, and Network Security.
+- 🏸 **Hobbies:** Coding, learning new technologies, and mastering the badminton smash on the court.
 
 <br>
 
@@ -35,59 +102,32 @@ I am a Computer Science Engineering student at Srinath University in Jamshedpur,
   </a>
 </div>
 
-<br><br>
-
-### 🎮 Mini-Game: The Cyber Escape Room
-*(Click the dropdown arrows to navigate the maze. 100% native and bug-free!)*
-
-<details>
-  <summary>💻 <b>LEVEL 1: You are locked out of the mainframe. How do you get in? (Click to Start)</b></summary>
-  <br>
-  <details>
-    <summary>🔴 <b>Option A: Run a Brute-Force Script</b></summary>
-    <br>
-    🚨 <b>ALARM TRIGGERED!</b> The firewall detected your script and blocked your IP. <b>GAME OVER.</b>
-  </details>
-  <details>
-    <summary>🟢 <b>Option B: Check for a SQL Injection Vulnerability</b></summary>
-    <br>
-    🔓 <b>ACCESS GRANTED!</b> You bypassed the login screen.<br><br>
-    
-    <details>
-      <summary>💻 <b>LEVEL 2: You found the database. Do you extract the data or plant a backdoor?</b></summary>
-      <br>
-      <details>
-        <summary>🔴 <b>Option A: Extract everything at once</b></summary>
-        <br>
-        📉 <b>BANDWIDTH SPIKE!</b> The system admins noticed the massive data transfer. You were caught. <b>GAME OVER.</b>
-      </details>
-      <details>
-        <summary>🟢 <b>Option B: Plant a silent backdoor and exit</b></summary>
-        <br>
-        🏆 <b>MISSION ACCOMPLISHED!</b> You secured persistent access like a true Cyber Security pro. <b>YOU WIN!</b>
-      </details>
-    </details>
-    
-  </details>
-</details>
-
-<br><br>
-
-### 📌 Featured Project: MediSwift
-
-<img align="right" src="https://media.giphy.com/media/L8K62iDadewUw/giphy.gif" width="150" alt="Code Animation" />
-
-**[MediSwift](https://github.com/ShivamSingh0403/Mediswift)** is an online medicine delivery platform designed to provide affordable medicines and healthcare access to rural and urban areas. 
-
-*   🔍 **Medicine Search & Filters:** Rapidly search and categorize available treatments.
-*   📄 **Prescription Upload:** Securely attach physical medical documents for verification.
-*   👨‍⚕️ **Doctor Consultation:** Built-in telehealth integration for direct medical advice.
-
-<br><br>
+<br>
 
 <!-- Animated Laser Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="20" alt="Animated Divider">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%" height="15" alt="Animated Divider">
+</div>
+
+<br>
+
+### 📌 Featured Projects
+
+<img align="right" src="https://media.giphy.com/media/L8K62iDadewUw/giphy.gif" width="150" alt="Code Animation" />
+
+#### 💊 **[MediSwift](https://github.com/ShivamSingh0403/Mediswift)**
+A unified e-pharmacy and telehealth platform designed to bridge the gap between pharmacy retail and clinical consultancy in rural and urban areas. 
+*   **Tech:** Node.js, Express, MongoDB, JavaScript.
+*   **Features:** Zero-latency client cart, secure prescription uploads, and telehealth routing.
+
+#### 🛒 **SPharma**
+A responsive medicine delivery web application developed during my practical Web Designing internship, featuring seamless user registration and order placement.
+
+<br>
+
+<!-- Animated Glowing Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="10" alt="Animated Divider">
 </div>
 
 <br>
