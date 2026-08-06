@@ -24,9 +24,18 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a dedicated technologist currently pursuing my Diploma in Computer Science Engineering at **Srinath University**. My technical journey is built on a strong foundation of core academic subjects, including **Data Structures and Algorithms (DSA)**, **Software Engineering**, and **Operating Systems**. 
+I am a dedicated technologist currently pursuing my Diploma in Computer Science Engineering at **Srinath University**. My technical journey is built on a strong foundation of core academic subjects, and I am passionate about translating theoretical knowledge into practical solutions. 
 
-I am passionate about translating theoretical knowledge into practical solutions. Through various internships, I have cultivated hands-on experience across multiple domains, from designing responsive front-end interfaces to exploring the growing fields of Artificial Intelligence, Machine Learning, and Cyber Security. 
+Through various internships, I have cultivated hands-on experience across multiple domains, from designing responsive front-end interfaces to exploring the growing fields of Artificial Intelligence, Machine Learning, and Cyber Security. 
+
+<hr/>
+
+## 📚 Core Academic Coursework
+
+A strong developer is built on solid fundamentals. My primary areas of academic focus include:
+*   **Data Structures and Algorithms (DSA):** Focusing on optimization and efficient problem-solving in C/C++.
+*   **Software Engineering:** Understanding the software development lifecycle, system design, and best practices.
+*   **Operating Systems:** Exploring resource management, process scheduling, and system architecture.
 
 <hr/>
 
@@ -34,21 +43,27 @@ I am passionate about translating theoretical knowledge into practical solutions
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <!-- Strictly filtered to your known technical skills -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=light" alt="Tech Stack" />
+    <!-- Filtered strictly to known technologies + GitHub -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,github&theme=light" alt="Tech Stack" />
   </a>
 </div>
+
+*   **Programming Languages:** C, C++
+*   **Web Technologies:** HTML, CSS (Responsive Web Design)
+*   **Version Control:** Git & GitHub
 
 <hr/>
 
 ## 💼 Experience & Internships
 
-*   **AI/ML Intern** *(Current)*
-    *   Currently undergoing a comprehensive 3-month internship focused on Artificial Intelligence and Machine Learning applications.
-*   **Cyber Security Intern** 
-    *   Completed a 2-month online internship program focusing on network protocols, threat analysis, and data protection strategies.
-*   **Web Design Intern** 
-    *   Completed a 1-month practical internship dedicated to responsive front-end development and modern web design principles.
+> **🧠 AI/ML Intern** | *Current*
+> *   Currently undergoing a comprehensive 3-month internship focused on Artificial Intelligence and Machine Learning applications, exploring practical AI implementations.
+
+> **🔐 Cyber Security Intern** | *Completed (2 Months)*
+> *   Completed an online internship program focusing on network protocols, vulnerability identification, threat analysis, and data protection strategies.
+
+> **💻 Web Design Intern** | *Completed (1 Month)*
+> *   Dedicated practical experience in responsive front-end development, focusing on HTML/CSS structure and modern web design principles.
 
 <hr/>
 
@@ -56,26 +71,65 @@ I am passionate about translating theoretical knowledge into practical solutions
 
 ### 💊 SPharma - Medicine Delivery Web Application
 Designed and developed **SPharma**, a fully responsive front-end web application built to streamline online medicine delivery. 
-*   **Key Features:** Integrated seamless user registration workflows and a complete order placement system.
-*   **Focus:** Clean UI design, responsive layouts for all device sizes, and intuitive user navigation.
+*   **Key Features:** Integrated seamless user registration workflows and a complete, functional order placement system.
+*   **Focus:** Clean UI design using core HTML & CSS, responsive layouts for all device sizes, and intuitive user navigation.
 
 <hr/>
 
 ## 🎓 Education
 
-*   **Diploma in Computer Science Engineering**
-    *   *Srinath University, Jamshedpur, Jharkhand*
-*   **10th Grade (CBSE Board)**
-    *   *Chinmaya Vidyalaya, Bistupur*
+| Degree/Certificate | Institution | Board / University |
+| :--- | :--- | :--- |
+| **Diploma in Computer Science Engineering** | Srinath University, Jamshedpur | State Board / University |
+| **10th Grade** | Chinmaya Vidyalaya, Bistupur | CBSE Board |
 
 <hr/>
 
 ## 🎯 Career Interests & Hobbies
 
 Beyond academic coursework and professional development, I actively engage in several technical and personal pursuits:
-*   **Coding & New Technologies:** Continuously learning and building small projects to test out new concepts.
+*   **Coding & New Technologies:** Continuously learning, writing C/C++ logic, and building small web structures to test out new concepts.
 *   **AI Visual Creation:** Deeply interested in high-end, AI-driven portrait editing, with a specific focus on prompt engineering for strict identity preservation, DSLR-quality aesthetics, and cinematic lighting.
-*   **Badminton:** A long-term passion for the sport, constantly working on footwork, timing, and mastering the mechanics of the smash shot.
+*   **Badminton:** A long-term passion for the sport, constantly working on footwork, timing, and mastering the physical mechanics of the perfect smash shot.
+
+<hr/>
+
+## 🎮 Interactive Zone: The Cyber Security Challenge
+
+*Test your security knowledge with this mini-game based on my Cyber Security internship. Click the dropdowns to make your choices!*
+
+<details>
+<summary><b>[MISSION START]</b> 🚨 A malicious script is attempting to breach the university's student database. What is your first move?</summary>
+<br/>
+
+> **Option A:** <details><summary>Run a C++ script to delete the database so the hacker can't get it.</summary> 
+> ❌ *Result:* You successfully stopped the hacker... by destroying everything yourself. The university is not happy. Game Over.
+> </details>
+
+> **Option B:** <details><summary>Analyze the incoming network protocols and isolate the affected server.</summary>
+> ✅ *Result:* Excellent choice! You contained the threat by isolating the server. 
+> <br/>
+> <b>[LEVEL 2]</b> The malware left a hidden backdoor on the web portal. How do you find it?
+>
+> > **Choice 1:** <details><summary>Inspect the HTML and CSS source code for hidden elements and malicious iframes.</summary>
+> > ✅ *Result:* Success! You found an invisible HTML iframe injecting the payload. You remove the code and secure the front-end. 
+> > <br/>
+> > <b>[FINAL STAGE]</b> You need to report the breach. What is the most important information to include?
+> >
+> > > **Path X:** <details><summary>A detailed log of the Data Structures (like Hash Maps) compromised and the specific network protocols used by the attacker.</summary>
+> > > 🏆 *Result:* **SYSTEM SECURED.** Your deep understanding of DSA, network protocols, and web design saved the day. You are a true Cyber Security expert! Thanks for playing.
+> > > </details>
+> > > 
+> > > **Path Y:** <details><summary>Just tell them "the computer had a virus" and restart it.</summary>
+> > > ❌ *Result:* The malware was persistent in the Operating System's memory. It comes back after the reboot. Game Over.
+> > > </details>
+> > </details>
+>
+> > **Choice 2:** <details><summary>Try to guess the hacker's password by brute-forcing the login page.</summary>
+> > ❌ *Result:* You locked out the legitimate admin accounts and triggered a secondary alarm. Game Over.
+> > </details>
+> </details>
+</details>
 
 <br/>
 
