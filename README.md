@@ -1,105 +1,103 @@
-<!-- Giant Animated Waving & Twinkling Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Animated Header">
-</div>
+👋 Hi, I'm Shivam Kumar Singh
 
-<!-- Large Typing Animation for Titles -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=Computer+Science+Engineering;Full-Stack+Web+Developer;AI+%26+ML+Intern;Cyber+Security+Enthusiast" alt="Typing Text" />
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=Shivam%20Kumar%20Singh&fontSize=60&animation=twinkling&fontColor=ffffff"/>
+</p>
 
-<br>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&pause=1000&color=00F0FF&center=true&width=900&lines=Computer+Science+Engineering;Full-Stack+Developer;AI+%26+ML+Intern;Cyber+Security+Enthusiast"/>
+</p>
 
-### 👨‍💻 About My Journey
+👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggCGT1x1c0b31x/giphy.gif" width="200" alt="Animated Coding PC" />
+🎓 Computer Science Engineering Student
 
-I am a Computer Science Engineering student at Srinath University in Jamshedpur, passionate about solving real-world problems through code. My technical journey is driven by hands-on experience and a strong desire to master diverse domains.
+💼 AI/ML Intern
 
-- 💼 **Experience:** Currently undertaking a **3-month AI/ML internship**, applying data models and algorithms. Previously completed a **1-month Web Designing internship** focusing on responsive front-end development, and a **2-month online Cyber Security internship**.
-- 🔭 **Focus Areas:** Full-Stack Web Development (MERN), Artificial Intelligence, Machine Learning, and Cyber Security.
-- 🏸 **Hobbies:** Coding, exploring new technologies, and mastering the badminton smash.
+🌐 MERN Stack Learner
 
-<br><br>
+🔐 Cyber Security Enthusiast
 
-### 🚀 Technical Arsenal
-*(Hover your mouse over these large animated icons!)*
+🚀 Tech Stack
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Strictly the skills you know, rendered large and animated on hover -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb&theme=dark&perline=4" alt="Animated Tech Stack" />
-  </a>
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,express,mongodb,git,github,vscode&perline=6"/>
+</p>
 
-<br><br>
+🏆 GitHub Trophies
 
-### 🎮 The Developer's Vault (Mini-Game)
-*(Click the dropdowns to play! This runs natively in GitHub with zero errors.)*
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamSingh0403&theme=algolia&no-frame=true"/>
+</p>
 
-<details>
-  <summary><b>🚪 You are trapped in an infinite While Loop. Two doors appear. Which do you choose? (Click here to play)</b></summary>
-  <br>
-  <details>
-    <summary>🔴 <b>Door 1: Type `break;`</b></summary>
-    <br>
-    🎉 <b>SUCCESS!</b> You successfully broke out of the loop and saved the server from crashing. You are a true developer! 🏆
-  </details>
-  <details>
-    <summary>🔵 <b>Door 2: Add `i++`</b></summary>
-    <br>
-    💀 <b>GAME OVER.</b> The variable `i` was never defined. You just triggered a `ReferenceError` and the server crashed! Try again.
-  </details>
-</details>
+📊 GitHub Stats
 
-<br><br>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSingh0403&layout=compact&theme=tokyonight"/>
+</p>
 
-### 📌 Featured Project
+🔥 Streak
 
-#### 💊 **[MediSwift](https://github.com/ShivamSingh0403/Mediswift)**
-An online medicine delivery platform designed to provide affordable medicines and healthcare access to rural and urban areas. 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=tokyonight"/>
+</p>
 
-*   🔍 **Medicine Search & Filters:** Rapidly search and categorize available treatments.
-*   📄 **Prescription Upload:** Securely attach physical medical documents for verification.
-*   👨‍⚕️ **Doctor Consultation:** Built-in telehealth integration for direct medical advice.
+📈 Activity Graph
 
-<br><br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSingh0403&theme=tokyo-night"/>
+</p>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="15" alt="Animated Divider">
-</div>
+🐍 Contribution Snake
 
-<br>
+Replace after enabling GitHub Action:https://raw.githubusercontent.com/ShivamSingh0403/ShivamSingh0403/output/github-contribution-grid-snake-dark.svg
 
-### 📫 Connect with Me
+🎮 Developer Games
 
-<div align="center">
-  <a href="https://github.com/ShivamSingh0403">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Follow me on GitHub!" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect with me on LinkedIn!" alt="LinkedIn" />
-  </a>
-</div>
-<details>
-
-<summary>🚪 Escape Room</summary>
+<details><summary>Escape Infinite Loop</summary>
 
 while(true){
-
-?
-
+ // ?
 }
 
-<details>
-
-<summary>Answer</summary>
-
-break;
-
-🏆
+Answer: break;
 
 </details>
 
+<details><summary>Find the Bug</summary>
+
+for(let i=0;i<=5;i--){
+ console.log(i)
+}
+
+Answer: i++
+
 </details>
+
+<details><summary>Choose a Door</summary>
+Door 1: `break;` ✅ Win
+
+Door 2: i++ without declaration ❌ Lose
+
+</details>
+
+💊 Featured Project
+
+MediSwift
+
+Medicine delivery + telehealth platform with search, prescription upload and doctor consultation.
+
+🌍 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShivamSingh0403&style=for-the-badge&color=00F0FF"/>
+</p>
+
+📫 Connect
+
+GitHub: https://github.com/ShivamSingh0403
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:000000&height=150&section=footer"/>
+</p>
