@@ -82,3 +82,24 @@ An online medicine delivery platform designed to provide affordable medicines an
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Connect with me on LinkedIn!" alt="LinkedIn" />
   </a>
 </div>
+<details>
+
+<summary>🚪 Escape Room</summary>
+
+while(true){
+
+?
+
+}
+
+<details>
+
+<summary>Answer</summary>
+
+break;
+
+🏆
+
+</details>
+
+</details>
