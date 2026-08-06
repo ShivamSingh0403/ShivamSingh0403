@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering+Student;AI+%26+ML+Intern;Full-Stack+Web+%26+Cyber+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi+there,+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering+Student;AI+%26+ML+Intern;Full-Stack+Web+%26+Cyber+Security+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
@@ -28,7 +28,7 @@ I am a Computer Science Engineering student at Srinath University in Jamshedpur,
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,github,vscode,linux&theme=dark&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,github,vscode,linux&amp;theme=dark&amp;perline=9" alt="Tech Stack" />
   </a>
 </div>
 
@@ -70,15 +70,20 @@ An online medicine delivery platform designed to provide affordable medicines an
 
 <br>
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Trophies & Analytics
 
-<!-- Using Markdown Image Syntax to prevent HTML parsing errors -->
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ShivamSingh0403)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShivamSingh0403&amp;theme=tokyonight&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15&amp;column=6" alt="GitHub Trophies" />
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=tokyonight&hide_border=true)](https://github.com/ShivamSingh0403)
+<br>
 
+<div align="center">
+  <a href="https://github.com/ShivamSingh0403">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSingh0403&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" />
+  </a>
 </div>
 
 <br>
@@ -87,9 +92,9 @@ An online medicine delivery platform designed to provide affordable medicines an
 
 <div align="center">
   <a href="https://github.com/ShivamSingh0403">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
 </div>
