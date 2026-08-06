@@ -1,9 +1,11 @@
+<!-- Animated Typing Header -->
 <div align="center">
   <a href="https://github.com/ShivamSingh0403">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+There,+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering;AI+%26+ML+Enthusiast;Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Shivam+Kumar+Singh+👋;Computer+Science+Engineering;AI+%26+ML+Enthusiast;Full-Stack+Web+Developer&color=2196F3" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivamSingh0403&label=Profile%20Views&color=2196F3&style=flat-square" alt="Profile Views" />
 </div>
@@ -18,12 +20,15 @@ I am pursuing a Diploma in Computer Science Engineering at Srinath University in
 
 - 🔭 **Focus Areas:** Exploring Artificial Intelligence and Machine Learning.
 - 🌱 **Currently Learning:** Advanced full-stack web development.
-- 💡 **Interests:** Building practical projects that solve real-world problems, coding, and learning new technologies.
-- 🏸 **Hobbies:** When I am away from the keyboard, you can usually find me on the badminton court working on my smash shot.
+- 💡 **Interests:** Building practical projects that solve real-world problems.
+- 🏸 **Hobbies:** Coding, exploring new tech, and mastering the badminton smash.
 
 <br>
 
----
+<!-- Animated Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 🛠 Skills & Technologies
 
@@ -42,9 +47,11 @@ I am pursuing a Diploma in Computer Science Engineering at Srinath University in
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF9900?style=flat-square&logo=openai&logoColor=white" alt="AI" />
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML" />
 <img src="https://img.shields.io/badge/Data%20Science-0052CC?style=flat-square&logo=pandas&logoColor=white" alt="Data Science" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
----
+<!-- Animated Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 📌 Featured Project
 
@@ -55,24 +62,30 @@ An online medicine delivery platform designed to provide affordable medicines an
 - 📄 **Prescription Upload:** Securely attach physical medical documents for verification.
 - 👨‍⚕️ **Doctor Consultation:** Built-in telehealth integration for direct medical advice.
 
----
+<!-- Animated Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=radical&hide_border=true&animation=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSingh0403&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSingh0403&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSingh0403&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSingh0403&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
----
+<!-- Animated Glowing Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 📫 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/ShivamSingh0403">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
