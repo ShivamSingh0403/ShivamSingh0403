@@ -69,8 +69,8 @@ A strong developer is built on solid fundamentals. My primary areas of academic 
 
 ## 🚀 Featured Project
 
-### 💊 SPharma - Medicine Delivery Web Application
-Designed and developed **SPharma**, a fully responsive front-end web application built to streamline online medicine delivery. 
+### 💊 Mediswift - Medicine Delivery Web Application
+Designed and developed **Mediswift**, a fully responsive front-end web application built to streamline online medicine delivery. 
 *   **Key Features:** Integrated seamless user registration workflows and a complete, functional order placement system.
 *   **Focus:** Clean UI design using core HTML & CSS, responsive layouts for all device sizes, and intuitive user navigation.
 
